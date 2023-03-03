@@ -70,8 +70,6 @@ def main():
     sorry = "Sorry! That city is not in our database :("
     source = get_city_selection(graph, "Where would you like to navigate from? ", sorry)
     destination = get_city_selection(graph, "Where would you like to navigate to? ", sorry)
-    # source = "Topeka"
-    # destination = "Kiowa"
 
     path = best_first_search(graph, source, destination)
     print(f"Here's a path between {source} and {destination}:", " → ".join(path))
