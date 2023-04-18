@@ -1,0 +1,152 @@
+{
+	"facilitators": [
+		"Lock",
+		"Glen",
+		"Banks",
+		"Richards",
+		"Shaw",
+		"Singer",
+		"Uther",
+		"Tyler",
+		"Numen",
+		"Zeldin"
+	],
+	"activities": [
+		{
+			"subject": "SLA",
+			"course number": 101,
+			"section": "A",
+			"expected enrollment": 50,
+			"preferred facilitators": ["Glen", "Lock", "Banks", "Zeldin"],
+			"other facilitators": ["Numen", "Richards"]
+		},
+		{
+			"subject": "SLA",
+			"course number": 101,
+			"section": "B",
+			"expected enrollment": 50,
+			"preferred facilitators": ["Glen", "Lock", "Banks", "Zeldin"],
+			"other facilitators": ["Numen", "Richards"]
+		},
+		{
+			"subject": "SLA",
+			"course number": 191,
+			"section": "A",
+			"expected enrollment": 50,
+			"preferred facilitators": ["Glen", "Lock", "Banks", "Zeldin"],
+			"other facilitators": ["Numen", "Richards"]
+		},
+		{
+			"subject": "SLA",
+			"course number": 191,
+			"section": "B",
+			"expected enrollment": 50,
+			"preferred facilitators": ["Glen", "Lock", "Banks", "Zeldin"],
+			"other facilitators": ["Numen", "Richards"]
+		},
+		{
+			"subject": "SLA",
+			"course number": 201,
+			"section": null,
+			"expected enrollment": 50,
+			"preferred facilitators": ["Glen", "Lock", "Banks", "Zeldin"],
+			"other facilitators": ["Numen", "Richards", "Singer"]
+		},
+		{
+			"subject": "SLA",
+			"course number": 291,
+			"section": null,
+			"expected enrollment": 50,
+			"preferred facilitators": ["Lock", "Banks", "Zeldin", "Singer"],
+			"other facilitators": ["Numen", "Richards", "Shaw", "Tyler"]
+		},
+		{
+			"subject": "SLA",
+			"course number": 303,
+			"section": null,
+			"expected enrollment": 60,
+			"preferred facilitators": ["Glen", "Zeldin", "Banks"],
+			"other facilitators": ["Numen", "Singer", "Shaw"]
+		},
+		{
+			"subject": "SLA",
+			"course number": 304,
+			"section": null,
+			"expected enrollment": 25,
+			"preferred facilitators": ["Glen", "Banks", "Tyler"],
+			"other facilitators": ["Numen", "Singer", "Shaw", "Richards", "Uther", "Zeldin"]
+		},
+		{
+			"subject": "SLA",
+			"course number": 394,
+			"section": null,
+			"expected enrollment": 20,
+			"preferred facilitators": ["Tyler", "Singer"],
+			"other facilitators": ["Richards", "Zeldin"]
+		},
+		{
+			"subject": "SLA",
+			"course number": 449,
+			"section": null,
+			"expected enrollment": 60,
+			"preferred facilitators": ["Tyler", "Singer", "Shaw"],
+			"other facilitators": ["Zeldin", "Uther"]
+		},
+		{
+			"subject": "SLA",
+			"course number": 451,
+			"section": null,
+			"expected enrollment": 100,
+			"preferred facilitators": ["Tyler", "Singer", "Shaw"],
+			"other facilitators": ["Zeldin", "Uther", "Richards", "Banks"]
+		}
+	],
+	"rooms": [
+		{
+			"building": "Slater",
+			"number": 3,
+			"capacity": 45
+		},
+		{
+			"building": "Roman",
+			"number": 216,
+			"capacity": 30
+		},
+		{
+			"building": "Loft",
+			"number": 206,
+			"capacity": 75
+		},
+		{
+			"building": "Roman",
+			"number": 201,
+			"capacity": 50
+		},
+		{
+			"building": "Loft",
+			"number": 310,
+			"capacity": 108
+		},
+		{
+			"building": "Beach",
+			"number": 201,
+			"capacity": 60
+		},
+		{
+			"building": "Beach",
+			"number": 301,
+			"capacity": 75
+		},
+		{
+			"building": "Logos",
+			"number": 325,
+			"capacity": 450
+		},
+		{
+			"building": "Frank",
+			"number": 119,
+			"capacity": 60
+		}
+	],
+	"times": [10, 11, 12, 13, 14, 15]
+}
